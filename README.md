@@ -32,3 +32,6 @@ The goal of the project asks to get more views of their boat, as well as stay on
 The Data set is carried out by an Introductory Survey and some of the users don’t complete the survey; and we can find some inexactitude.
 
 ### License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## visualization
+[Tableau Storyboard](https://public.tableau.com/views/YachtBoatsWebsiteAnalysis/YachtandBoatsaleswebsiteAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) 
