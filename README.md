@@ -33,5 +33,5 @@ The Data set is carried out by an Introductory Survey and some of the users donâ
 
 ### License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## visualization
+## Visualization
 [Tableau Storyboard](https://public.tableau.com/views/YachtBoatsWebsiteAnalysis/YachtandBoatsaleswebsiteAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) 
